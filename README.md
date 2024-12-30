@@ -25,6 +25,7 @@ Developed by:Mahasri.D
 RegisterNumber:24901210  
 */
 ```
+```
 import numpy as np
 
 import pandas as pd
@@ -75,7 +76,7 @@ pre=scaler.inverse_transform(prediction)
 
 print(f"Predicted value: {pre}")
 
-
+```
 
 ## Output:
 ![linear regression using gradient descent](sam.png)
