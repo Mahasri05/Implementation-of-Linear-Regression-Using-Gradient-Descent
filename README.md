@@ -79,9 +79,12 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
+![WhatsApp Image 2025-01-03 at 08 45 42_60f6c57b](https://github.com/user-attachments/assets/c8928ba6-b3c9-4e83-8102-73b27b0d1dd8)
+
+
+![WhatsApp Image 2025-01-03 at 08 45 54_7fb1752e](https://github.com/user-attachments/assets/9035ba9a-5f84-4180-820b-a5820513b93a)
+
 ![linear regression using gradient descent](sam.png)
-
-
 ![Screenshot 2024-11-14 184502](https://github.com/user-attachments/assets/7f842859-4dfa-4bad-96ce-26dfe06439fa)
 
 
